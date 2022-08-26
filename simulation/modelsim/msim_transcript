@@ -1,0 +1,115 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do hammingcode_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/main_encoder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module main_encoder
+# 
+# Top level modules:
+# 	main_encoder
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/main_decoder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module main_decoder
+# 
+# Top level modules:
+# 	main_decoder
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_15.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module encoder_shifter_15
+# 
+# Top level modules:
+# 	encoder_shifter_15
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_11.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module encoder_shifter_11
+# 
+# Top level modules:
+# 	encoder_shifter_11
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/encoder_Counter_11.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module encoder_Counter_11
+# 
+# Top level modules:
+# 	encoder_Counter_11
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/encoder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module encoder
+# 
+# Top level modules:
+# 	encoder
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_15.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module decoder_shifter_15
+# 
+# Top level modules:
+# 	decoder_shifter_15
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_11.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module decoder_shifter_11
+# 
+# Top level modules:
+# 	decoder_shifter_11
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/decoder_Counter_11.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module decoder_Counter_11
+# 
+# Top level modules:
+# 	decoder_Counter_11
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/decoder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/CLK_DIVIDER.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module CLK_DIVIDER
+# 
+# Top level modules:
+# 	CLK_DIVIDER
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/hammingcode.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module hammingcode
+# 
+# Top level modules:
+# 	hammingcode
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 {C:/Users/BAHGAT/Desktop/hammingcode1/tb_hammingcode.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tb_hammingcode
+# 
+# Top level modules:
+# 	tb_hammingcode
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneiii_ver -L rtl_work -L work -voptargs="+acc"  tb_hammingcode
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneiii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps tb_hammingcode 
+# Loading work.tb_hammingcode
+# Loading work.main_encoder
+# Loading work.CLK_DIVIDER
+# Loading work.encoder_shifter_11
+# Loading work.encoder_Counter_11
+# Loading work.encoder
+# Loading work.encoder_shifter_15
+# Loading work.main_decoder
+# Loading work.decoder_shifter_15
+# Loading work.decoder_Counter_11
+# Loading work.decoder
+# Loading work.decoder_shifter_11
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break key hit 
+# Simulation stop requested.

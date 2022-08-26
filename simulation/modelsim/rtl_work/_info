@@ -1,0 +1,268 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\BAHGAT\Desktop\hammingcode1\simulation\modelsim
+vCLK_DIVIDER
+InFN:9zL>Zbz?W8fYABm`l3
+V9<ZBR29oLYKh4GMHNWZX;3
+Z1 dC:\Users\BAHGAT\Desktop\hammingcode1\simulation\modelsim
+w1609876970
+8C:/Users/BAHGAT/Desktop/hammingcode1/CLK_DIVIDER.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/CLK_DIVIDER.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/BAHGAT/Desktop/hammingcode1 -O0
+n@c@l@k_@d@i@v@i@d@e@r
+!i10b 1
+!s100 7;]L>FPRIIi?e:25Yi:GM3
+!s85 0
+!s108 1609902961.838000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/CLK_DIVIDER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/CLK_DIVIDER.v|
+!s101 -O0
+vdecoder
+IEfzg=z]PAJf:5?fDV8lIz3
+VT?2VPdjWBWYd3S_BAh]m>3
+R1
+w1609885213
+8C:/Users/BAHGAT/Desktop/hammingcode1/decoder.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/decoder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 cTl@Zj<]ZjCOz9jDzEKQX0
+!s85 0
+!s108 1609902961.674000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/decoder.v|
+!s101 -O0
+vdecoder_Counter_11
+ITBlCPn4kV[h2YIf3M3^fJ1
+VFRNbAgK]D<71JLZ7>MIKK0
+R1
+w1609883947
+8C:/Users/BAHGAT/Desktop/hammingcode1/decoder_Counter_11.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/decoder_Counter_11.v
+L0 1
+R2
+r1
+31
+R3
+R4
+ndecoder_@counter_11
+!i10b 1
+!s100 AOf9JOCOgDnn1z716nF1R0
+!s85 0
+!s108 1609902961.498000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/decoder_Counter_11.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/decoder_Counter_11.v|
+!s101 -O0
+vdecoder_shifter_11
+Ie3[`VfOcbd^9YC2[^TGIY0
+V9F2cU31UA3;NLTg87if:z1
+R1
+w1609885620
+8C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_11.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_11.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3OmKjLEA?77ocFIEWWFI51
+!s85 0
+!s108 1609902961.307000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_11.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_11.v|
+!s101 -O0
+vdecoder_shifter_15
+I57996jYEDZPIR^0I6JoeJ0
+VgZNmW70P:`FTlX2>RcSe?0
+R1
+w1609884321
+8C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_15.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_15.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 QG?[]?Pd830:hV>lV5M>33
+!s85 0
+!s108 1609902961.048000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_15.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/decoder_shifter_15.v|
+!s101 -O0
+vencoder
+I4=UogoOZcMHVCoYg@Z1oh0
+VgSZX1bn3H^c0^beiCz3n=0
+R1
+w1609883131
+8C:/Users/BAHGAT/Desktop/hammingcode1/encoder.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/encoder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 j>gV:<287F_BFojKA@d[n3
+!s85 0
+!s108 1609902960.789000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/encoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/encoder.v|
+!s101 -O0
+vencoder_Counter_11
+IfBG73M5;J2W4RL4^_6HG]1
+VcV]JZj0=6zYC`<UBg0<bE2
+R1
+w1609876446
+8C:/Users/BAHGAT/Desktop/hammingcode1/encoder_Counter_11.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/encoder_Counter_11.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nencoder_@counter_11
+!i10b 1
+!s100 3FfHObBKOLLRlM^_PbU^01
+!s85 0
+!s108 1609902960.494000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/encoder_Counter_11.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/encoder_Counter_11.v|
+!s101 -O0
+vencoder_shifter_11
+IahLJoG34eSbRKXhI<e01T2
+Vi:PJ4_k2lD<9K]aXXSdg61
+R1
+w1609873471
+8C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_11.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_11.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 BYB@RRJU>>zV0@aVa[B^O0
+!s85 0
+!s108 1609902960.287000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_11.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_11.v|
+!s101 -O0
+vencoder_shifter_15
+IJ=gD3lfEj5a0FXhA9P25M3
+VFMVDQR?kc2zoHCGVFP^h;3
+R1
+w1609873499
+8C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_15.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_15.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 [WWk^HoUFR6EQ^A>n@`810
+!s85 0
+!s108 1609902960.062000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_15.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/encoder_shifter_15.v|
+!s101 -O0
+vhammingcode
+I4MnlViC[6g>Y9mkD[ZmM?3
+VE`fiCV617b64@RSWUZ]fk1
+R1
+w1609890786
+8C:/Users/BAHGAT/Desktop/hammingcode1/hammingcode.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/hammingcode.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 UzXm]f3CVmzI8g]]WB9Qf3
+!s85 0
+!s108 1609902962.012000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/hammingcode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/hammingcode.v|
+!s101 -O0
+vmain_decoder
+II59@UkYb^z1jeCJ]JO==A3
+VY3BXVK_1<BYW_75ZP2Lc31
+R1
+w1609885012
+8C:/Users/BAHGAT/Desktop/hammingcode1/main_decoder.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/main_decoder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 `lT0;7S7a];VhJB0FO1FA3
+!s85 0
+!s108 1609902959.838000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/main_decoder.v|
+!s101 -O0
+vmain_encoder
+II8`]HodLoi<H=mGi;4n__2
+VLlEAJEMg:CoElV7>YSGdh0
+R1
+w1609883370
+8C:/Users/BAHGAT/Desktop/hammingcode1/main_encoder.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/main_encoder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 zJ=?hbeQ`DQ];oW_`]T5k3
+!s85 0
+!s108 1609902959.611000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/main_encoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/main_encoder.v|
+!s101 -O0
+vtb_hammingcode
+!i10b 1
+!s100 UchGH^mk33CcQCmfl]7FL2
+I;?j:JYb1bbWj1k?Sb<2Se3
+V7P15E4MC4e8XB81VSF_ZD1
+R1
+w1609897224
+8C:/Users/BAHGAT/Desktop/hammingcode1/tb_hammingcode.v
+FC:/Users/BAHGAT/Desktop/hammingcode1/tb_hammingcode.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1609902962.179000
+!s107 C:/Users/BAHGAT/Desktop/hammingcode1/tb_hammingcode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/BAHGAT/Desktop/hammingcode1|C:/Users/BAHGAT/Desktop/hammingcode1/tb_hammingcode.v|
+!s101 -O0
+R3
+R4
